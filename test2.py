@@ -1,4 +1,4 @@
 import flask
 
 print('file 2 ')
-f= open("fileJenkins.txt","w+")
+f= open("C:/Users/amaln/Desktop/fileJenkins.txt","w+")
